@@ -78,10 +78,10 @@ public class BusinessServlet extends HttpServlet {
 	                list.add(new GoodsInfo(sellerId,sellerId*1000+6,"榄菜肉末四季豆+手撕杏鲍菇套餐(含粗粮米饭)", ConstantValue.HOST + "/TakeoutService/imgs/goods/caiping_taocan.webp","榄菜肉末四季豆+手撕杏鲍菇+小食+时蔬+含粗粮米饭)",53,true,false,"13.9",30));
 	                break;
 	            case 1:
-	                list.add(new GoodsInfo(sellerId,sellerId*1000+6,"纯手工馒头(一个)", ConstantValue.HOST + "/TakeoutService/imgs/goods/mantou.webp","",54,true,false,"1.5",0));
-	                list.add(new GoodsInfo(sellerId,sellerId*1000+7,"粗粮米饭", ConstantValue.HOST + "/TakeoutService/imgs/goods/culiangmifan.webp","",43,true,false,"2",0));
-	                list.add(new GoodsInfo(sellerId,sellerId*1000+8,"黄金玉米饼(一个)", ConstantValue.HOST + "/TakeoutService/imgs/goods/huangjinyumibing.webp","",24,true,false,"3",0));
-	                list.add(new GoodsInfo(sellerId,sellerId*1000+9,"粗粮菜团子(一个)", ConstantValue.HOST + "/TakeoutService/imgs/goods/culiangcaituanzi.webp","",10,true,false,"6",0));
+	                list.add(new GoodsInfo(sellerId,sellerId*1000+7,"纯手工馒头(一个)", ConstantValue.HOST + "/TakeoutService/imgs/goods/mantou.webp","",54,true,false,"1.5",0));
+	                list.add(new GoodsInfo(sellerId,sellerId*1000+8,"粗粮米饭", ConstantValue.HOST + "/TakeoutService/imgs/goods/culiangmifan.webp","",43,true,false,"2",0));
+	                list.add(new GoodsInfo(sellerId,sellerId*1000+9,"黄金玉米饼(一个)", ConstantValue.HOST + "/TakeoutService/imgs/goods/huangjinyumibing.webp","",24,true,false,"3",0));
+	                list.add(new GoodsInfo(sellerId,sellerId*1000+10,"粗粮菜团子(一个)", ConstantValue.HOST + "/TakeoutService/imgs/goods/culiangcaituanzi.webp","",10,true,false,"6",0));
 	                break;
 	           case 2:
 	                list.add(new GoodsInfo(sellerId,sellerId*1000+11,"细品香肠", ConstantValue.HOST + "/TakeoutService/imgs/goods/xipingxiangchang.webp","",10,true,false,"10",0));
